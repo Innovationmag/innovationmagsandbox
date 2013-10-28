@@ -1,0 +1,29 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:t1V8xF
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^innovationmag.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.innovationmag.org$
+RewriteRule ^ddd$ http://google.com [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE t1V8xF:REDIRECTID
+
+
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:8ZoCWi
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^innovationmag.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.innovationmag.org$
+RewriteRule ^innov$ http://innovationmag.org/ [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE 8ZoCWi:REDIRECTID
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

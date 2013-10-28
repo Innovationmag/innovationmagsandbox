@@ -1,0 +1,61 @@
+
+
+	MINIMABLE
+	
+	Created by Fedeweb - http://www.fedeweb.net
+	
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3.1 - 21 Aug / 2013
+	Minimable Premium - In the first half of September the premium version will be ready!
+	Updated: improved the documentation by adding a screenshot in the menu section	
+	Fixed: the favicon option now works
+	- - - - - - - - - - - - - - - - - - - - - - -
+	
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3 - 30 Jul / 2013
+
+	Updated: improved the documentation and added a FAQ section
+	Updated: the "Go to work" link, in Portfolio section, now appears only when you fill in the URL link field in the dashboard
+	Updated: now, in Minimable Option you can set the "Go to work" label
+	Updated: when you activate Minimable for the first time, appears a message in the live site that told you which will be the next step
+	Updated: enabled external custom links in the menu
+	Updated: "Find us" and "Contact us" labels now are editable.
+	Fixed: iOS input aspect. Now it's the same of the desktop site version
+	Fixed: the contact informations on the left appears only when you put the label (email, fax, etc)
+	Fixed: the staff section issue, when the screen resolution has a width of 2500px
+	Fixed: the margin of the input fields in the Wordpress dashboard
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+	Version 1.2 - 01 Jul / 2013
+
+	Updated: Improved typography design
+	Added: documentation option in Minimable Settings
+	Added: more details in Minimable documentation
+	Fixed: changed position of lightbox image controller
+	Fixed: footer cutted when is on two row
+	Fixed: scrollorama is now applied to all page galleries you create
+	Removed: minimoll.css file from css folder
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.1 - 26 Jun / 2013
+
+	Added: changelog file
+	Added: created a docs folder
+	Fixed: footer cutted on smartphones
+	Fixed: scrolling on the last section with big resolutions
+	Fixed: bug when you hover on the rounded thumbs in the gallery section, in Firefox (Windows)
+	Fixed: menu overlay on the circle link in the home section
+	Fixed: focus state on the email field in the contact section
+	Fixed: width of the input fields in Appereance - Menu
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.0 - 25 Jun / 2013
+
+	First Release
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
